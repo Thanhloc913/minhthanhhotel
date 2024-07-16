@@ -467,7 +467,7 @@ header.sticked {
   background: none;
   background-color: #0a090a;
   border-color: transparent;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
 }
 header.sticked:before {
   display: none;
@@ -490,7 +490,7 @@ header.sticked:before {
     background-color: #0a090a;
     width: 145px;
     height: 145px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
   }
   header.sticked nav.navigation-main .logo img {
     height: auto;
@@ -1265,14 +1265,14 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
 
 .owl-slider-header .item .desc {
   display: block;
-  text-shadow: 0 0 10px #000;
+
 }
 
 .owl-slider-header .item .title {
   font-size: 26px;
   font-family: "Playfair Display", serif;
   color: white;
-  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+
   text-transform: none;
 }
 
@@ -2767,7 +2767,7 @@ section {
 }
 
 .tabsy-wrapper.tabsy-wrapper-frontpage .tabsy {
-  box-shadow: 0 -10px 50px rgba(0, 0, 0, 0.5);
+
 }
 
 @media (min-width: 992px) {
@@ -2914,7 +2914,7 @@ section {
 }
 
 .tabsy-wrapper .tabsy .tabsy-links figure.current {
-  background-color: rgba(0, 0, 0, 0.5);
+
 }
 
 .tabsy-wrapper .tabsy .tabsy-links figure.current a.link {
@@ -3674,9 +3674,7 @@ section {
   z-index: 99999;
   margin: 0;
   padding: 0;
-  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
   left: 0;
   right: 0;
   width: 100%;
