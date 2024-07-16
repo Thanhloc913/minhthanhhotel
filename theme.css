@@ -146,7 +146,6 @@ a:hover .zoom {
   transition: all 0.5s ease 0s;
 }
 .bg-cover {
-  background-color: #333;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -689,7 +688,6 @@ nav.navigation-main .navigation-block ul li > a {
 }
 
 nav.navigation-main .navigation-block ul li > ul {
-  background-color: rgba(81, 85, 97, 0.1);
 }
 
 nav.navigation-main .navigation-block ul li > ul li {
@@ -721,7 +719,7 @@ nav.navigation-main .navigation-mobile ul li > a {
   color: white;
 }
 nav.navigation-main .navigation-mobile ul li > ul {
-  background-color: rgba(81, 85, 97, 0.1);
+
 }
 nav.navigation-main .navigation-mobile ul li > ul li {
   display: block;
@@ -815,7 +813,6 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     background-color: white;
   }
   nav.navigation-main .navigation-block > ul li > ul li:hover a {
-    color: #3a3d45;
     -moz-transform: translateX(5px);
     -ms-transform: translateX(5px);
     -o-transform: translateX(5px);
@@ -829,7 +826,6 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     transition: all 0.3s;
     font-weight: bold;
     background-color: white;
-    color: #515561;
   }
   nav.navigation-main .navigation-block > ul li.hovered a {
     text-shadow: 0 0 10px white;
@@ -920,7 +916,6 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     background-color: white;
   }
   nav.navigation-main .navigation-mobile > ul li > ul li:hover a {
-    color: #3a3d45;
     -moz-transform: translateX(5px);
     -ms-transform: translateX(5px);
     -o-transform: translateX(5px);
@@ -934,7 +929,6 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     transition: all 0.3s;
     font-weight: bold;
     background-color: white;
-    color: #515561;
   }
   nav.navigation-main .navigation-mobile > ul li.hovered a {
     text-shadow: 0 0 10px white;
@@ -998,7 +992,6 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     transition: all 0.3s;
   }
   nav.navigation-main .navigation-block.open {
-    background-color: #0a090a;
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     -o-transform: translate3d(0, 0, 0);
@@ -1006,7 +999,6 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     transform: translate3d(0, 0, 0);
   }
   nav.navigation-main .navigation-block ul li {
-    border-top: 1px solid #36443a;
   }
   nav.navigation-main .navigation-block ul li a {
     position: relative;
@@ -1062,7 +1054,6 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     transition: all 0.3s;
   }
   nav.navigation-main .navigation-mobile.open {
-    background-color: #0a090a;
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     -o-transform: translate3d(0, 0, 0);
@@ -2165,7 +2156,6 @@ section {
   padding-top: 200px;
   padding-bottom: 200px;
   color: white;
-  background-color: #0a090a;
 }
 
 .banner .btn {
@@ -2380,8 +2370,7 @@ section {
   position: relative;
   min-height: 150px;
   overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+
 }
 
 .tabsy-wrapper .tabsy .tabsy-links figure + figure {
