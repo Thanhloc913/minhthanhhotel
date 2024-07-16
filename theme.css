@@ -454,7 +454,7 @@ header {
   display: block;
   padding-top: 0;
   z-index: 999;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid #fff;
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
   -webkit-transition: all 0.5s;
@@ -1428,12 +1428,12 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
 @media (max-width: 768px) {
   .owl-rooms .owl-controls .owl-buttons .owl-next {
     right: -15px;
-    background: rgba(48, 61, 52, 0.6);
+    background: #fff;
   }
 
   .owl-rooms .owl-controls .owl-buttons .owl-prev {
     left: -15px;
-    background: rgba(48, 61, 52, 0.6);
+    background: #fff;
   }
 }
 @media (min-width: 480px) {
@@ -2009,7 +2009,7 @@ section {
 
 .image-blocks.image-blocks-theme .blocks {
   color: white;
-  box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 -5px 20px #fff;
 }
 
 .image-blocks.image-blocks-theme .blocks .item {
@@ -2063,8 +2063,8 @@ section {
 .image-blocks .blocks .item .room-facilities {
   padding: 15px 0;
   margin: 20px 0;
-  border-top: 1px solid rgba(0, 38, 57, 0.15);
-  border-bottom: 1px solid rgba(0, 38, 57, 0.15);
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
 }
 
 .image-blocks .blocks .item .room-facilities .hotelicon {
@@ -2479,7 +2479,7 @@ section {
 }
 
 .stretcher-wrapper .stretcher .stretcher-item .stretcher-logo {
-  background-color: rgba(10, 9, 10, 0.8);
+  background-color: #fff;
   opacity: 1;
   position: absolute;
   width: 100%;
@@ -2527,7 +2527,7 @@ section {
 }
 
 .stretcher-wrapper .stretcher .stretcher-item figure {
-  background-color: rgba(10, 9, 10, 0.75);
+  background-color: #fff;
   color: white;
   position: absolute;
   z-index: 9;
@@ -2831,12 +2831,12 @@ section {
   position: relative;
   min-height: 150px;
   overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  background-color: #fff;
+  border-bottom: 1px solid #fff;
 }
 
 .tabsy-wrapper .tabsy .tabsy-links figure + figure {
-  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  border-left: 1px solid #fff;
 }
 
 .tabsy-wrapper .tabsy .tabsy-links figure:after {
@@ -3024,12 +3024,12 @@ section {
 @media (max-width: 768px) {
   .quote-carousel .owl-controls .owl-buttons .owl-next {
     right: -15px;
-    background: rgba(48, 61, 52, 0.6);
+    background: #fff;
   }
 
   .quote-carousel .owl-controls .owl-buttons .owl-prev {
     left: -15px;
-    background: rgba(48, 61, 52, 0.6);
+    background: #fff;
   }
 }
 .quotes {
@@ -4048,7 +4048,7 @@ section {
     padding: 30px;
   }
   .rooms article:hover {
-    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 15px 25px #fff;
     -moz-transform: scale(1.03);
     -ms-transform: scale(1.03);
     -o-transform: scale(1.03);
@@ -4343,7 +4343,7 @@ section {
 }
 
 .blog aside {
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 15px #fff;
   background-color: #eeeeee;
 }
 
@@ -5589,7 +5589,7 @@ section {
 
 .comments .comment-block > .comment-block {
   background-color: #eeeeee;
-  border-top: 1px solid rgba(221, 221, 221, 0.5);
+  border-top: 1px solid #fff;
   padding-bottom: 20px;
   padding-top: 20px;
 }
@@ -5927,7 +5927,7 @@ footer a {
   color: white;
 }
 footer a:hover {
-  color: rgba(255, 255, 255, 0.6);
+  color: #fff;
 }
 
 footer .footer-left,
