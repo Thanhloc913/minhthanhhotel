@@ -454,7 +454,6 @@ header {
   display: block;
   padding-top: 0;
   z-index: 999;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
   -webkit-transition: all 0.5s;
@@ -471,7 +470,7 @@ header:before {
   z-index: -1;
 }
 header.sticked {
-  background: none;
+  background: #ffffff;
   border-color: transparent;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
