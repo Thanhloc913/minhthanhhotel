@@ -506,7 +506,7 @@ header.sticked:before {
 @media (max-width: 767px) {
   header.sticked {
     position: fixed;
-    background-color: #0a090a;
+    background-color: #ffffff;
   }
 }
 @media (max-width: 991px) {
