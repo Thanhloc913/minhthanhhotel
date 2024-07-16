@@ -465,7 +465,7 @@ header:before {
 }
 header.sticked {
   background: none;
-  background-color: #0a090a;
+  
   border-color: transparent;
 
 }
@@ -487,7 +487,7 @@ header.sticked:before {
     -moz-border-radius: 100%;
     -webkit-border-radius: 00%;
     border-radius: 100%;
-    background-color: #0a090a;
+    
     width: 145px;
     height: 145px;
 
@@ -501,7 +501,7 @@ header.sticked:before {
 @media (max-width: 767px) {
   header.sticked {
     position: fixed;
-    background-color: #0a090a;
+    
   }
 }
 @media (max-width: 991px) {
@@ -1053,7 +1053,7 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     transition: all 0.3s;
   }
   nav.navigation-main .navigation-block.open {
-    background-color: #0a090a;
+    
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     -o-transform: translate3d(0, 0, 0);
@@ -1117,7 +1117,7 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
     transition: all 0.3s;
   }
   nav.navigation-main .navigation-mobile.open {
-    background-color: #0a090a;
+    
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     -o-transform: translate3d(0, 0, 0);
@@ -1467,7 +1467,7 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
 }
 
 .btn.btn-main {
-  background-color: #0a090a;
+  
 }
 
 .btn.btn-main:hover {
@@ -1500,7 +1500,7 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
 }
 
 .btn.btn-clean-dark:hover {
-  background-color: #0a090a;
+  
   border-color: #0a090a;
   color: white !important;
 }
@@ -1517,7 +1517,7 @@ nav.navigation-main .navigation-mobile ul li > ul li a {
   color: #fff !important;
 }
 .btn.btn-buy {
-  background-color: #0a090a;
+  
   color: white;
   position: absolute;
   padding: 0;
@@ -2013,7 +2013,7 @@ section {
 }
 
 .image-blocks.image-blocks-theme .blocks .item {
-  background-color: #0a090a;
+  
 }
 
 .image-blocks .blocks {
@@ -2366,7 +2366,7 @@ section {
 }
 
 .stretcher-wrapper .stretcher .stretcher-item.more {
-  background-color: #0a090a;
+  
   position: relative;
   height: 100px;
 }
@@ -2616,7 +2616,7 @@ section {
   padding-top: 200px;
   padding-bottom: 200px;
   color: white;
-  background-color: #0a090a;
+  
 }
 
 .banner .btn {
@@ -3188,7 +3188,7 @@ section {
 }
 
 .team article .details {
-  background-color: #0a090a;
+  
   color: white;
   text-align: center;
   position: absolute;
@@ -3278,7 +3278,7 @@ section {
 }
 
 .facilities .facilities-wrapper figure .hotelicon:after {
-  background-color: #0a090a;
+  
   content: "";
   left: 0;
   top: 0;
@@ -3428,7 +3428,7 @@ section {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #0a090a;
+  
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   -webkit-transition: 0.3s;
@@ -3538,7 +3538,7 @@ section {
 
 @media (max-width: 991px) {
   .booking.booking-inner .booking-wrapper {
-    background-color: #0a090a;
+    
     color: white;
   }
 }
@@ -3550,7 +3550,7 @@ section {
 .booking.booking-default-theme {
   padding-bottom: 0;
   color: white;
-  background-color: #0a090a;
+  
 }
 
 .booking.booking-default-theme .section-header .title {
@@ -3690,7 +3690,7 @@ section {
 
 .booking .booking-wrapper .guests .guest-list li.header,
 .booking .booking-wrapper .guests .guest-list li.footer {
-  background-color: #0a090a;
+  
   color: white;
   padding: 20px 15px;
 }
@@ -3767,7 +3767,7 @@ section {
 }
 
 .booking .booking-wrapper .guests .guest-list li .qty-btn:hover {
-  background-color: #0a090a;
+  
   color: white;
   border-color: #0a090a;
 }
@@ -3884,11 +3884,11 @@ section {
 }
 
 .ui-datepicker .ui-datepicker-calendar .ui-state-active {
-  background-color: #0a090a;
+  
 }
 
 .ui-datepicker .ui-datepicker-title {
-  background-color: #0a090a;
+  
   font-family: "Montserrat", sans-serif;
 }
 
@@ -3923,7 +3923,7 @@ section {
   height: 50%;
   left: 0;
   bottom: 0;
-  background-color: #0a090a;
+  
 }
 
 .rooms.rooms-category {
@@ -4288,7 +4288,7 @@ section {
 }
 
 .blog.blog-widgetb {
-  background-color: #0a090a;
+  
   position: relative;
   padding-bottom: 40px;
 }
@@ -4307,7 +4307,7 @@ section {
     height: 50%;
     left: 0;
     bottom: 0;
-    background-color: #0a090a;
+    
   }
 
   .blog.blog-widgeta:before {
@@ -4327,7 +4327,7 @@ section {
     height: 50%;
     left: 0;
     bottom: 0;
-    background-color: #0a090a;
+    
   }
 }
 
@@ -4490,7 +4490,7 @@ section {
 .blog aside .box.box-tags ul li a {
   padding: 7.5px;
   border: 0;
-  background-color: #0a090a;
+  
   color: white;
   font-size: 13px;
   -moz-border-radius: 2px;
@@ -4557,7 +4557,7 @@ section {
   width: 65px;
   height: 65px;
   display: block;
-  background-color: #0a090a;
+  
   font-size: 65%;
   color: #515561;
   -moz-border-radius: 100%;
@@ -4763,7 +4763,7 @@ section {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #0a090a;
+  
   opacity: 0;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -4829,7 +4829,7 @@ section {
   background-size: 60% auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: #0a090a;
+  
 }
 
 @media print {
@@ -4869,7 +4869,7 @@ section {
 }
 
 .subscribe .box:after {
-  background-color: #0a090a;
+  
   -moz-transform: translate(-50%, -50%) rotate(45deg);
   -ms-transform: translate(-50%, -50%) rotate(45deg);
   -o-transform: translate(-50%, -50%) rotate(45deg);
@@ -5891,7 +5891,7 @@ section {
 
 .shortcodes .bs-glyphicons li:hover {
   color: #fff;
-  background-color: #0a090a;
+  
 }
 
 .shortcodes #glyphs.expanded .bs-glyphicons {
@@ -5920,7 +5920,7 @@ section {
 */
 footer {
   padding: 40px 0;
-  background-color: #0a090a;
+  
   color: white;
 }
 footer a {
@@ -6372,7 +6372,7 @@ textarea.form-control {
 }
 .btn-discover:hover {
   color: #fff;
-  background-color: #0a090a;
+  
   border-color: #0a090a;
 }
 .btn-discover.focus,
