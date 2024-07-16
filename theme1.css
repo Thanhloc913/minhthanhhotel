@@ -2273,6 +2273,7 @@ section {
 
 .contact .contact-block .contact-form .form-control {
   border-color: transparent;
+  height: calc(1.5em + .75rem + 2px);
 }
 
 .contact .map-info-window {
