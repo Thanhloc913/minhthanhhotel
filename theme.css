@@ -1769,7 +1769,7 @@ section {
 .section-header .title {
   margin-top: 0;
   margin-bottom: 10px;
-  color: #3a3d45;
+  color: #ffffff;
   font-family: "Playfair Display", serif;
   position: relative;
   text-transform: uppercase;
@@ -1859,7 +1859,7 @@ section {
   margin-bottom: 20px;
   display: block;
   text-align: center;
-  background-color: #474747;
+  background-color: #ffffff;
   color: white;
 }
 
@@ -1904,7 +1904,7 @@ section {
   margin-bottom: 45px;
   display: block;
   text-align: center;
-  background-color: #474747;
+  background-color: #ffffff;
   color: white;
 }
 
@@ -1988,7 +1988,7 @@ section {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background-color: #474747;
+  background-color: #ffffff;
   min-height: 250px;
   padding-top: 40px;
   margin-bottom: -130px;
@@ -3043,17 +3043,17 @@ section {
 
 .quotes.quotes-ligther {
   background-color: #eeeeee;
-  color: black;
+  color: white;
 }
 
 .quotes.quotes-ligther .section-header,
 .quotes.quotes-ligther .section-header .title {
-  color: black;
+  color: white;
 }
 
 .quotes.quotes-ligther .section-header span,
 .quotes.quotes-ligther .section-header .title span {
-  color: black;
+  color: white;
 }
 
 .quotes .section-header {
