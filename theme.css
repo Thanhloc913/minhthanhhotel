@@ -1946,16 +1946,7 @@ section {
     ----------------------------------
 */
 .category-header {
-  background: #474747;
-  /* Old browsers */
-  background: -moz-linear-gradient(left, #474747 0%, #a0a0a0 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #474747 0%, #a0a0a0 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #474747 0%, #a0a0a0 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#474747', endColorstr='#a0a0a0',GradientType=1 );
-  /* IE6-9 */
+
 }
 
 /*  
@@ -1965,16 +1956,6 @@ section {
 */
 .frontpage-slider {
   padding: 0;
-  /*background: #474747;*/
-  /* Old browsers */
-  background: -moz-linear-gradient(left, #474747 0%, #a0a0a0 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #474747 0%, #a0a0a0 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #474747 0%, #a0a0a0 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#474747', endColorstr='#a0a0a0',GradientType=1 );
-  /* IE6-9 */
 }
 
 @media (max-width: 991px) {
@@ -4220,25 +4201,7 @@ section {
 }
 
 .gallery .section-header {
-  background: -moz-linear-gradient(
-    top,
-    rgba(0, 0, 0, 0.65) 0%,
-    transparent 100%
-  );
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(
-    top,
-    rgba(0, 0, 0, 0.65) 0%,
-    transparent 100%
-  );
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.65) 0%,
-    transparent 100%
-  );
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 );
   /* IE6-9 */
   position: absolute;
   width: 100%;
@@ -5474,15 +5437,7 @@ section {
     ----------------------------------
 */
 .not-found {
-  background: #474747;
-  /* Old browsers */
-  background: -moz-linear-gradient(left, #474747 0%, #a0a0a0 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #474747 0%, #a0a0a0 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #474747 0%, #a0a0a0 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#474747', endColorstr='#a0a0a0',GradientType=1 );
   /* IE6-9 */
   padding: 80px 0;
   text-align: center;
