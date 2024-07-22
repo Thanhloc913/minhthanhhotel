@@ -2,11 +2,6 @@ $(function () {
   "use strict";
   // Toggle menu
   // ------------------------------------
-  $(".toggle-menu").on("click", function () {
-    $(this).toggleClass("open");
-    $("header").toggleClass("sticked");
-    $(this).parent().find(".navigation-mobile").toggleClass("open");
-  });
 
   var $box = $(".options-content .options .box");
   $box.click(function () {
@@ -226,18 +221,9 @@ $(function () {
   var navbarFixed = $("header");
 
   // When reload page - check if page has offset
-  if ($(document).scrollTop() > 94) {
-    navbarFixed.addClass("sticked");
-  }
+
   // Add sticky menu on scroll
-  $(document).on("bind ready scroll", function () {
-    var docScroll = $(document).scrollTop();
-    if (docScroll >= 10) {
-      navbarFixed.addClass("sticked");
-    } else {
-      navbarFixed.removeAttr("class");
-    }
-  });
+
 
   // Payment options
   // ----------------------------------------------------------------
@@ -434,14 +420,14 @@ $(function () {
   $(".ngaydi").datepicker("setDate", dbook);
   // Default calendar namespaces
   var dateFormat =
-      "<span class='day'>d</span> <span class='month'>M</span> <span class='year'>yy</span>",
+    "<span class='day'>d</span> <span class='month'>M</span> <span class='year'>yy</span>",
     dateArrival = "#dateArrival input",
     dateDeparture = "#dateDeparture input",
     dateArrivalVal = "#dateArrival .date-value",
     dateDepartureVal = "#dateDeparture .date-value";
   // Default calendar namespaces
   var dateFormat =
-      "<span class='day'>d</span> <span class='month'>M</span> <span class='year'>yy</span>",
+    "<span class='day'>d</span> <span class='month'>M</span> <span class='year'>yy</span>",
     dateArrival = "#dateArrival input",
     dateDeparture = "#dateDeparture input",
     dateArrivalVal = "#dateArrival .date-value",
