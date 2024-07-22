@@ -492,7 +492,7 @@ header.sticked:before {
     -moz-border-radius: 100%;
     -webkit-border-radius: 00%;
     border-radius: 100%;
-    background-color: #0a090a;
+/*     background-color: #0a090a; */
     width: 145px;
     height: 145px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
