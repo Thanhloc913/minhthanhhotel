@@ -453,7 +453,7 @@ header {
   right: 0;
   display: block;
   padding-top: 0;
-/*   z-index: 999; */
+  z-index: 100;
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
   -webkit-transition: all 0.5s;
